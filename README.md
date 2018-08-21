@@ -2,14 +2,11 @@
 
 # @swatcat94/tiny
 
-https://img.shields.io/badge/npm-v2.0.0-lightgreen.svg
-
-
-
-<!-- <!-- <!-- [![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@swatcat94/tiny)
+[![npm (scoped)](https://img.shields.io/badge/npm-v2.0.0-lightgreen.svg
+)](https://www.npmjs.com/package/@swatcat94/tiny)
 <!-- [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny) -->
 
-<!-- Removes all spaces from a string.
+Removes all spaces from a string.
 
 ## Install
 
@@ -33,6 +30,4 @@ tiny(1337);
 
 
 
-https://img.shields.io/badge/npm-v2.0.0-brightgreen.svg
 
-https://img.shields.io/github/issues/swati-1994/first_npm_module.svg --> --> --> -->
