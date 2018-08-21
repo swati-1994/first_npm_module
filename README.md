@@ -1,4 +1,4 @@
-# first_npm_module
+
 
 # @swatcat94/tiny
 
@@ -11,13 +11,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @swatcat94/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@swatcat94/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
